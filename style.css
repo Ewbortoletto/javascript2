@@ -4,11 +4,15 @@ body {
     font-size: 1.2rem;
 }
 
-//.align-right{
+.align-right{
 display: flex;
 justify-content: flex-end;
 }
 
 .align-right button {
-    margin-top: 28px;
+    margin-top: 29px;
+}
+
+.defauldMarginTop {
+    margin-top: 20px;
 }
